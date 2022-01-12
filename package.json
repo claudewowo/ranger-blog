@@ -68,7 +68,7 @@
     "koa-session": "^5.10.1",
     "koa-static": "^5.0.0",
     "log4js": "^4.0.2",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-div": "^1.1.0",
     "markdown-it-emoji": "^1.4.0",
